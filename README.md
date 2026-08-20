@@ -8,9 +8,9 @@
 ##
 <div>
    <a href="https://github.com/Joao-Vitor-Freitas">
-   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Freitas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-     
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Freitas&layout=compact&langs_count=16&theme=midnight-purple"/>
+      <img height="180" src="./profile/stats.svg"/>
+      <img height="180" src="./profile/top-langs.svg"/>
+   </a>
 </div>
 
 
