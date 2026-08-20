@@ -13,7 +13,6 @@
    </a>
 </div>
 
-
 ###  Tecnologias 💻:
 <p>
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
